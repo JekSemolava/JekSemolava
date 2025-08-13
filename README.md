@@ -1,7 +1,4 @@
-## Hi there 👋
-
-**✨JekSemolava/JekSemolava✨**
-# 👋 I'm Jek Semolava
+# ✨Hi there, I'm Jek Semolava 👋✨
 
 📍 30-year-old frontend web developer based in **Philippines**  
 📚 Graduated with Bachelors degreee in Electronics Engineering at **Central Philippine University**  
@@ -14,27 +11,16 @@
 ## 💻 Tech Stack
 
 ### Languages
-- JavaScript
-- TypeScript
-- Php
+- JavaScript, TypeScript, Php
 
 ### Frameworks & Libraries
-- jQuery
-- React
-- Discord.js
-- BootstrapCSS
-- SCSS/LESS
+- jQuery, React, BootstrapCSS, SCSS/LESS
 
 ### Backend
-- Node.js
-- Express
+- Node.js, Express
 
 ### Tools
-- VS Code
-- Git
-- Photoshop
-- Wordpress
-- Xara
+- VS Code, Git, Photoshop, Wordpress, Xara
 
 ---
 
@@ -71,11 +57,4 @@
 - 📨: jason.semolava@gmail.com  
 - 🔗: https://jeksemolava.github.io/portfolio
 - 💬: https://www.linkedin.com/in/jason-semolava-001b531b2
-- **X (Twitter)**:
-
-- [🔭
-- 🌱 
-- 👯 
-- 🤔
-- 😄 
-- ⚡]
+- 🔭🌱👯⚡
