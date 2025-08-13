@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **✨JekSemolava/JekSemolava✨**
 # 👋 I'm Jek Semolava
 
@@ -80,4 +79,3 @@
 - 🤔
 - 😄 
 - ⚡]
--->
